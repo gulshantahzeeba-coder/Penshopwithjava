@@ -1,4 +1,4 @@
-# Penshopwithjava
+# PenShopWithJava
 A Java-based Pen Shop Management System for managing pen inventory, brands, prices, stock, and sales records.
 PenShopWithJava is a simple Java application designed to manage a pen shop's inventory and sales operations.
 The system allows users to store and manage pen details, including brand names, prices, stock quantities, and other relevant information. 
